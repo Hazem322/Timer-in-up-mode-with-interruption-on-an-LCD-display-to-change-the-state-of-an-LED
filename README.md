@@ -1,0 +1,2 @@
+# Timer-in-up-mode-with-interruption-on-an-LCD-display-to-change-the-state-of-an-LED
+ This project showcases STM32 microcontroller's control over LCD display &amp; LED via timer interrupt. It configures peripherals: LCD for runtime messages &amp; LED toggled by timer interrupt. Components: LCD setup, Timer config for periodic interrupts, LED control via interrupt callback, Main loop updating LCD, Error handling. 
